@@ -1,0 +1,47 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: .70em;
+background-color: #ADADAD;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+input {
+	background-color: #EDEDED;
+	border: thin solid #858585;
+		font-size: 1.0em;
+
+}
+.tb_style {
+	border: thin dotted #8F8F8F;
+}
+.tbtext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.tbtext_but {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+}
+
+.tbcol {
+	color: #FCFCFC;
+}
+.tbline {
+	border: 1px dashed #525252;
+}
+.inputsize {
+	border:1px solid; height:12pt;
+}
+.scroll {
+	SCROLLBAR-ARROW-COLOR: #f3960b; SCROLLBAR-DARKSHADOW-COLOR: #000000; SCROLLBAR-BASE-COLOR: #ADADAD;
+	}
+a.style1{
+text-decoration: none;}
+#div{
+border: 1px solid #999999;
+overflow: auto;
+height: 715px;
+width: 570px;
+SCROLLBAR-ARROW-COLOR: #000000; SCROLLBAR-DARKSHADOW-COLOR: #333333; SCROLLBAR-BASE-COLOR: #999999;
+}
